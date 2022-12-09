@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset='UTF-8'>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Jeevanesh's Code Atlas</title>
+    </head>
+<body>
+    <table cellspacing="20">
+        <tr>
+            <td><img src="https://cdn.discordapp.com/attachments/405030620276981771/1025739071844266034/IMG_2994.jpg" alt="jeev profile picture"</td>
+            <td><h1>Jeevanesh Sathiaseelan</h1>
+            <p><i><strong> CS Student at the <a href="https://www.ucf.edu/">University of Central Florida</a></strong></i></p>
+            <p>I am trying to develop my own nevigation app that connects traffic light information to your phone so that you never miss a red light while on your phone!
+            </td>
+        </tr>
+    </table>
+    <hr size='3' noshade>
+<center> <!-- This center tag puts everything into the center of the screen, for design purposes !-->
+<br> <!-- This is a break line code, which creates space between your texts !-->
+</center>  
+<h2>Resources and education</h2>
+    <ul>
+        <li>Freshman at UCF, studying Computer Science with a minor in cybersecurity</li>
+        <li>Learning about Front End coding with Dr. Angela, founder of App Brewery</li>
+    </ul>
+<h2>My Hobbies</h2>
+    <ul>
+        <li><a href="https://nsl.leaguespot.gg/teams/39abdef8-ba81-4bab-a0f7-84a4e941f5c5">Video Games</a></li>
+        <li><a href="https://open.spotify.com/playlist/6bWEgcjVyvBckB8ERZr3qg?si=7aab87a85e944439">Listening and finding new music</a></li>
+        <li>Playing the Piano</li>
+        <li>Going to the Gym</li>
+    </ul>
+<hr size="3" noshade>
+<h2>Experience</h2>
+<table cellspacing="10">
+    <thead>
+        <tr>
+            <th>Date</th>
+            <th>Work</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>2018-2022</td>
+            <td>Experience with CSS, Javascript</td>
+        </tr>
+        <br>
+        <tr>
+            <td>2022</td>
+            <td>Experience with Phython</td>
+        </tr>
+    </tbody>
+</table>
+<hr size="3" noshade>
+<h2>Skills</h2>
+<table cellspacing="10">
+    <thead>
+        <tr>
+            <th>Skills</th>
+            <th>Experience</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>CSS</td>
+            <td>⭐⭐⭐</td>
+        </tr>
+        <tr>
+            <td>Phython</td>
+            <td>⭐⭐⭐</td>
+        </tr>
+        <tr>
+            <td>Javascript</td>
+            <td>⭐⭐⭐</td>
+        </tr>
+        <tr>
+            <td>HTML</td>
+            <td>⭐⭐⭐⭐</td>
+        </tr>
+        <tr>
+            <td>Bootstrap Framework</td>
+            <td>⭐⭐⭐</td>
+        </tr>
+    </tbody>
+</table>
+<hr size="3" noshade>
+<h2><a href="contact_list.html">Contact Me!</a></h2>
+</body>  
+</html>
